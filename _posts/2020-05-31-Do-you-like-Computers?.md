@@ -1,10 +1,10 @@
-Computer
+****Computer****
 
 From Wikipedia, the free encyclopedia
 
 A computer is a machine that accepts data as input, processes that data using programs, and outputs the processed data as information. Many computers can store and retrieve information using hard drives. Computers can be connected together to form networks, allowing connected computers to communicate with each other.
 
-Characteristics
+**Characteristics**
 
 
 The two principal characteristics of a computer are: It responds to a specific instruction set in a well-defined manner and it can execute a prerecorded list of instructions call a program. There are four main processing steps in a computer: inputting, storage, outputting and processing.
@@ -18,7 +18,7 @@ Hardware
 Modern computers are electronic computer hardware. They do mathematical arithmetic very quickly but computers do not really "think". They only follow the instructions in their software programs. The software uses the hardware when the user gives it instructions, and gives useful output.
 
 
-Controls
+**Controls**
 
 
 Humans control computers with user interfaces. Input devices include keyboards, computer mice, buttons, and touch screens. Some computers can also be controlled with voice commands, hand gestures or even brain signals through electrodes implanted in the brain or along nerves.
@@ -29,7 +29,7 @@ History of computers
 The Jacquard loom was one of the first programmable devices.
 
 
-Automation
+**Automation**
 
 
 Most humans have a problem with math. To show this, try doing 584 × 3,220 in your head. It is hard to remember all the steps! People made tools to help them remember where they were in a math problem. The other problem people have is that they have to do the same problem over and over and over again. A cashier had to make change every day in her head or with a piece of paper. That took a lot of time and made mistakes. So, people made calculators that did those same things over and over. This part of computer history is called the "history of automated calculation," which is a fancy phrase for "the history of machines that make it easy for me to do this same math problem over and over without making mistakes."
@@ -37,10 +37,7 @@ Most humans have a problem with math. To show this, try doing 584 × 3,220 in yo
 The abacus, the slide rule, the astrolabe and the Antikythera mechanism (which dates from about 150-100 BC) are examples of automated calculation machines.
 
 
-Programming
-
-
-Main article: Computer programming
+**Programming**
 
 
 People do not want a machine that would do the same thing over and over again. For example, a music box is a machine that plays the same music over and over again. Some people wanted to be able to tell their machine to do different things. For example, they wanted to tell the music box to play different music every time. They wanted to be able to program the music box- to order the music box to play different music. This part of computer history is called the "history of programmable machines" which is a fancy phrase for "The history of machines that I can order to do different things if I know how to speak their language."
@@ -52,4 +49,4 @@ Historians disagree on which early machines are "computers". Many say the "castl
 Others say the first computer was made by Charles Babbage.Ada Lovelace is considered to be the first programmer.
 
 
-continue reading at https://simple.wikipedia.org/wiki/Computer
+[continue reading](https://simple.wikipedia.org/wiki/Computer)
